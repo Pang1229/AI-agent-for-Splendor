@@ -1,17 +1,3 @@
-# Splendor Project Template
-
-You must fully and carefully read the assignment specification and instructions detailed in this file. You are NOT to modify this file in any way.
-
-* **Course:** [COMP90054 AI Planning for Autonomy](https://handbook.unimelb.edu.au/subjects/comp90054) @ Semester 1, 2024.
-* **Instructor:** Dr. Nir Lipovetzky, Dr. Joseph West, & Dr. Sarita Rosenstock
-* **Deadline Team Registration:** Monday 29 April, 2024 @ 18:00 (start of Week 9)
-* **Deadline Preliminary (Individual) Submission:** Monday 6 May, 2024 @ 18:00 (start of Week 10)
-* **Deadline Wiki & Final Submission:** Monday 20 May, 2024 @ 18:00 (start of Week 12)
-* **Deadline Individual Self-Evaluation:** Friday 24 May, 2024 @ 18:00 (Week 12)
-* **Course Weight:** 35% total, comprising 10% (preliminary competition) + 10% (final competition) + 15% (wiki)
-* **Assignment type:** Groups of 3 (ideally) or 2 (not recommended)
-* **CLOs covered:** 1-5
-
 The purpose of this project is to implement a Splendor Autonomous Agent that can play and compete in the UoM COMP90054-2024 _Splendor tournament_:
 
  <p align="center"> 
